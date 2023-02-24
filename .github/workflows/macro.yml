@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       authcode:
-        description: 'CRD Kodunuzu Giriniz'
+        description: 'Kod Gir'
         required: true
       pincode:
         description: '6 Haneli Pin Kodunuz'
